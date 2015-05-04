@@ -1,7 +1,10 @@
 {
   "name": "moment-datepicker-b3",
   "version": "1.1.4",
-  "main": ["./moment-datepicker/moment-datepicker.js", "./moment-datepicker/datepicker.css"],
+  "main": [
+    "./moment-datepicker/moment-datepicker.js",
+    "./moment-datepicker/datepicker.css"
+  ],
   "ignore": [
     ".gitignore",
     "Content",
@@ -16,6 +19,6 @@
   ],
   "dependencies": {
     "jquery": ">= 1.9.0",
-    "moment": ">= 2.0.0"
+    "moment": "~2.10.2"
   }
 }
