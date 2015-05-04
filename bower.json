@@ -1,21 +1,15 @@
 {
   "name": "moment-datepicker-b3",
-  "version": "1.1.4",
+  "version": "1.2.0",
   "main": [
-    "./moment-datepicker/moment-datepicker.js",
-    "./moment-datepicker/datepicker.css"
+    "./dist/js/moment-datepicker.js",
+    "./dist/css/datepicker.css"
   ],
   "ignore": [
     ".gitignore",
-    "Content",
+    "content",
     "index.html",
-    "MomentDatepicker.csproj",
-    "MomentDatepicker.sln",
-    "nuget",
-    "packages",
-    "packages.config",
-    "Scripts",
-    "web.config"
+    "scripts"
   ],
   "dependencies": {
     "jquery": ">= 1.9.0",

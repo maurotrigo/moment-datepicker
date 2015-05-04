@@ -1,7 +1,7 @@
 {
   "name": "moment-datepicker-b3",
-  "version": "1.1.4",
-  "main": "moment-datepicker/moment-datepicker.js",
+  "version": "1.2.0",
+  "main": "dist/js/moment-datepicker.js",
   "keywords": [
     "bootstrap",
     "datepicker"
